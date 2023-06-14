@@ -1,0 +1,14 @@
+# ninja log v5
+0	544	7084641560633763	CMakeFiles/laba4.dir/main.cpp.obj	a982ce452ba54b26
+3	519	7084642079838535	CMakeFiles/laba4.dir/main.cpp.obj	a982ce452ba54b26
+8	528	7084642079925289	CMakeFiles/laba4.dir/vector.cpp.obj	ef64b5c42ca27cf8
+529	973	7084642084309288	laba4.exe	6a6a431bfc0a318d
+5	629	7084669539433279	CMakeFiles/laba4.dir/main.cpp.obj	a982ce452ba54b26
+12	643	7084669539557079	CMakeFiles/laba4.dir/vector.cpp.obj	ef64b5c42ca27cf8
+643	819	7084669541224874	laba4.exe	6a6a431bfc0a318d
+4	542	7084688692676129	CMakeFiles/laba4.dir/main.cpp.obj	a982ce452ba54b26
+11	559	7084688692830874	CMakeFiles/laba4.dir/vector.cpp.obj	ef64b5c42ca27cf8
+559	694	7084688694162312	laba4.exe	6a6a431bfc0a318d
+5	640	7084694766772196	CMakeFiles/laba4.dir/main.cpp.obj	a982ce452ba54b26
+11	660	7084694766973681	CMakeFiles/laba4.dir/vector.cpp.obj	ef64b5c42ca27cf8
+660	821	7084694768524287	laba4.exe	6a6a431bfc0a318d
