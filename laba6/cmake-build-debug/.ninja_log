@@ -1,0 +1,15 @@
+# ninja log v5
+1	155	7090086307629064	build.ninja	fa1891e25b9f9fba
+1	284	7090084449064643	CMakeFiles/laba6.dir/main.cpp.obj	e94efb9944a9071c
+1	326	7090081496046237	CMakeFiles/laba6.dir/class.cpp.obj	7701b40e2a5464b
+300	372	7090084449920101	laba6.exe	fb7bb6fe92a996cb
+4	56	7090084446794046	CMakeFiles/laba6.dir/TreeNode.cpp.obj	9e64870cbea9e15c
+8	299	7090084449228132	CMakeFiles/laba6.dir/Tree.cpp.obj	d26d0e30afef9c8e
+1	243	7090090662116474	CMakeFiles/laba6.dir/main.cpp.obj	e94efb9944a9071c
+5	337	7090090663054322	CMakeFiles/laba6.dir/binary.cpp.obj	51e1071c4dfdbaf
+337	413	7090090663794895	laba6.exe	e3e79b989e2c1de6
+2	244	7090094910220509	CMakeFiles/laba6.dir/main.cpp.obj	e94efb9944a9071c
+5	341	7090094911177860	CMakeFiles/laba6.dir/binary.cpp.obj	51e1071c4dfdbaf
+341	422	7090094911975699	laba6.exe	e3e79b989e2c1de6
+1	219	7090095743883451	CMakeFiles/laba6.dir/main.cpp.obj	e94efb9944a9071c
+220	292	7090095744584291	laba6.exe	e3e79b989e2c1de6
